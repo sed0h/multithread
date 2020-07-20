@@ -6,3 +6,4 @@ x64
 /c++11thread/x64
 *.filters
 *.user
+.vs
