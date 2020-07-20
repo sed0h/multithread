@@ -4,3 +4,5 @@ x64
 /c++11thread/*.user
 /c++11thread/*.filters
 /c++11thread/x64
+*.filters
+*.user
